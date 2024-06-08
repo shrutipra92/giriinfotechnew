@@ -1,0 +1,92 @@
+{
+  "Case study one": {
+    "base": {
+      "heading": "Financial Event Marketing Leader",
+      "Ambition": "The Client wanted to update & modernize Salesforce usage to improve the sales and marketing cycles and leverage built-in Salesforce features to extract maximum ROI.",
+      "images": [
+        "https://websiteimagessb.s3.us-west-2.amazonaws.com/case1.jpeg"
+      ],
+      "solution": [
+        "Experience with sales, marketing, and service cloud functional consulting.",
+        "Using Pardot, HubSpot, and Salesforce Marketing Cloud, we increased lead generation, increased deal closing, and measured marketing success.",
+        "A 360-degree view of clients is available on one platform thanks to the unidirectional and bidirectional connectivity of salesforce with different apps.",
+        "Using text analytics on survey data, we can determine customer sentiment.",
+        "By presenting data in charts and dashboards, users can better understand the business using various KPIs and ROI calculations.",
+        "Mobile users can access the Salesforce application on the go. reports and dashboards that use Wave analytics.",
+        "Improved Salesforce UX and UI transitions The user interface is vastly improved by Lightning."
+      ],
+      "Impact": [
+        "Efficiency of the sales staff was increased by 34%.",
+        "The effectiveness of a personalised campaign rose by 39%.",
+        "A 360-degree client view aided in speedy problem solutions",
+        "Reduced customization by 46% for improved maintainability",
+        "Business visibility that is effective and strong analytics."
+      ],
+      "Challenges": [
+        "Insufficient sales and marketing cycles",
+        "Lack of real time order tracking from external systems",
+        "Lack of data on customer experiences, communication, feedback, and queries.",
+        "Lack of standard reporting and tracking features"
+      ]
+    }
+  },
+  "Case study two": {
+    "base": {
+      "heading": "University, simplifies and streamlines the management of the student lifetime.",
+      "Ambition": "The Client wanted Students, teachers, and parents are being astounded by universities' automated procedures, quick access to information, and integrated experiences throughout the student journey.",
+      "images": ["https://websiteimagessb.s3.us-west-2.amazonaws.com/edu.jpeg"],
+      "solution": [
+        "Linking student data to a reliable platform.",
+        "For best effectiveness, automating student onboarding and acquisition.",
+        "Facilitating student success through simple information availability.",
+        "Making the lives of parents and teachers easier by providing a lone source of truth.",
+        "Using real-time intelligence to raise university performance.",
+        "Advancing digital transformation quickly."
+      ],
+      "Impact": [
+        "Expected savings in On-Boarding effort",
+        "Reduction in student admissions time.",
+        "Reduction in efforts to generate attendance reports.",
+        "No longer do parents have to visit the campus and stand in queues.",
+        "Best-in-class experience, while streamlining workflows for better teacher-student engagement"
+      ],
+      "Challenges": [
+        "Manually moving the data across systems",
+        "Multiple digital and print campaigns runs at same time.",
+        "Worry about data being lost or duplicated.",
+        "Lack of standard reporting and tracking activities",
+        "Difficult to access to Information"
+      ]
+    }
+  },
+
+  "Case study three": {
+    "base": {
+      "heading": "Builds frictionless, customized partner encounters.",
+      "Ambition": "The Client wanted a wealthy and strong client 360 and brilliantly robotization are making a difference Raymond Realty lock in and serve clients way better for a hassle-free home-buying involvement.",
+      "images": [
+        "https://websiteimagessb.s3.us-west-2.amazonaws.com/realestate.jpeg"
+      ],
+      "solution": [
+        "Utilizing innovation to lay the establishment for paramount partner experiences, ability to coordinated information and forms from numerous sources on one trusted stage, got to be the self- evident choice.",
+        "Computerization client sees customize intelligent quicken transformations.",
+        "Enabling accomplices victory utilizing innovation",
+        "Smooth benefit conveyance for higher buyer fulfilment.",
+        "Building a customer-centric approach on the back of innovation."
+      ],
+      "Impact": [
+        "Make a data-driven procedure to associate seriously with clients at each touchpoint; making the once-in-a-lifetime home-buying involvement important.",
+        "Bind together mail, social, phone, and chat bolster and oversee each channel from one supportReduction in efforts to generate attendance reports..",
+        "Boost in Presales productivity.",
+        "Construct believe and straightforwardness and make a consistent involvement for brokers",
+        "Drop in complaint escalation rates."
+      ],
+      "Challenges": [
+        "Absence of unified data views",
+        "Manually handling Pre-Sales process.",
+        "Complaint escalation rates is higher.",
+        "Difficult to make conversations"
+      ]
+    }
+  }
+}

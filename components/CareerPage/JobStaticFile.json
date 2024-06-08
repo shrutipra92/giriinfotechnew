@@ -1,0 +1,157 @@
+{
+    "SENIOR SOFTWARE ENGINEER":{
+        "headingOne": "Senior Software Engineer",
+        "headingTwo": "Join Our Team and Lead the Way in Software Engineering Excellence",
+        "headingThree": "Your role",
+        "headingThreeArray": [
+            "Lead Technical Initiatives: Take charge of projects from inception to completion. Your expertise will be critical in developing technical strategies, architecture, and solutions.",
+            "Mentor and Guide: Share your knowledge and expertise with our team, guiding junior engineers and fostering their growth.",
+            "Innovate and Collaborate: Collaborate with cross-functional teams to drive innovation, solve complex challenges, and develop world-class software.",
+            "Quality and Performance: Ensure code quality, performance, and security are top priorities in everything we build.",
+            "Research and Stay Current: Stay up-to-date with the latest industry trends, emerging technologies, and best practices."
+        ],
+        "headingFour": "Qualifications",
+        "headingFourArray": [
+            "Bachelor's or Master's degree in Computer Science or a related field.",
+            "1+ years of professional software development experience.",
+            "Proficiency in Javascript.",
+            "Strong problem-solving skills and a passion for learning.",
+            "Leadership and mentorship experience."
+        ],
+        "headingFive": "Benefits",
+        "headingFiveArray": [
+            "Competitive salary and benefits package.",
+            "Opportunities for professional development and training.",
+            "A collaborative and innovative work environment.",
+            "The chance to work on cutting-edge projects with global impact.",
+            "A supportive and inclusive company culture."
+        ],
+        "Conclusion": "As a Senior Software Engineer at BrizSolution, you'll have the opportunity to shape the future of technology and make a meaningful impact. If you're ready to take on challenging projects, guide the next generation of engineers, and drive innovation, we encourage you to apply today.",
+        "RequiredTechnologies": [
+            "Node.js"
+        ],
+        "JobPlace": [
+            "New Delhi"
+        ],
+        "ExternalTechs": [
+            "React", "Angular", "View"
+        ]
+    },
+    "REACT+NODE FULL STACK DEVELOPER":{
+        "headingOne": "REACT+NODE FULL STACK DEVELOPER",
+        "headingTwo": "Join Our Team and Drive Full Stack Innovation",
+        "headingThree": "Your Role",
+        "headingThreeArray": [
+            "End-to-End Development: Be the driving force behind the full stack, from designing user interfaces to architecting back-end services.",
+            "User-Centric Design: Craft dynamic and intuitive user interfaces that enhance user experiences.",
+            "Data Management: Create efficient data pipelines and manage databases to ensure the integrity of data.",
+            "Cross-Team Collaboration: Collaborate with cross-functional teams to turn concepts into cutting-edge web applications.",
+            "Optimize and Scale: Improve application performance, scalability, and reliability."
+        ],
+        "headingFour": "Qualifications",
+        "headingFourArray": [
+            "Bachelor's or Master's degree in Computer Science or a related field.",
+            "1+ years of professional web development experience.",
+            "Proficiency in React, Node.js, and associated technologies.",
+            "Strong problem-solving skills and a passion for learning.",
+            "Experience working with RESTful APIs and databases."
+        ],
+        "headingFive": "Benefits",
+        "headingFiveArray": [
+            "Competitive salary and benefits package.",
+            "Opportunities for professional development and growth.",
+            "A collaborative and innovative work environment.",
+            "The chance to work on projects that shape the future.",
+            "A supportive and inclusive company culture."
+        ],
+        "Conclusion": "As a React + Node Full Stack Developer at BrizSolution, you'll have the opportunity to shape the future of web development and make a significant impact. If you're ready to contribute to dynamic projects, optimize performance, and collaborate with cross-functional teams, we encourage you to apply today.",
+        "RequiredTechnologies": [
+            "Node.js",
+            "React.js",
+            "Redux.js"
+        ],
+        "JobPlace": [
+            "New Delhi"
+        ],
+        "ExternalTechs": [
+            "React", "Angular", "View"
+        ]
+    },
+    "REACTJS DEVELOPER":{
+        "headingOne": "ReactJS Developer",
+        "headingTwo": "Join Our Team and Shape the Future of Web Development",
+        "headingThree": "Your Role",
+        "headingThreeArray": [
+            "Front-End Mastery: Lead the development of dynamic user interfaces using ReactJS and associated technologies.",
+            "User-Centric Design: Create responsive, intuitive, and visually appealing web applications that enhance user experiences.",
+            "Collaborative Development: Work closely with cross-functional teams to implement innovative solutions.",
+            "Performance Optimization: Ensure the efficiency and scalability of your web applications.",
+            "Stay Current: Keep up with industry trends, emerging technologies, and best practices in front-end development."
+        ],
+        "headingFour": "Qualifications",
+        "headingFourArray": [
+            "Bachelor's or Master's degree in Computer Science or a related field.",
+            "1+ years of professional front-end development experience.",
+            "Proficiency in ReactJS and a strong understanding of JavaScript and related libraries.",
+            "A portfolio of projects demonstrating your ReactJS expertise.",
+            "Strong problem-solving skills and a passion for staying at the cutting edge of technology."
+        ],
+        "headingFive": "Benefits",
+        "headingFiveArray": [
+            "Competitive salary and benefits package.",
+            "Opportunities for professional development and growth.",
+            "A collaborative and innovative work environment.",
+            "The chance to work on exciting and impactful web projects.",
+            "A supportive and inclusive company culture."
+        ],
+        "Conclusion": "As a ReactJS Developer at BrizSolution, you'll have the opportunity to shape the future of web development and deliver exceptional user experiences. If you're ready to make a meaningful impact, contribute to dynamic projects, and collaborate with a talented team, we encourage you to apply today.",
+        "RequiredTechnologies": [
+            "React.js",
+            "Redux.js"
+        ],
+        "JobPlace": [
+            "New Delhi"
+        ],
+        "ExternalTechs": [
+            "React", "Angular", "View"
+        ]
+    },
+    "SR. TEST ENGINEER":{
+        "headingOne": "UI/UX Consultant",
+        "headingTwo": "Primary Duties and Tasks",
+        "headingThree": "Administration of the Design System",
+        "headingThreeArray": [
+            "Take the lead in creating, documenting, and refining our design system to ensure uniform visual and interaction elements.",
+            "Take the lead in creating, documenting, and refining our design system to ensure uniform visual and interaction elements.",
+            "Take the lead in creating, documenting, and refining our design system to ensure uniform visual and interaction elements."
+        ],
+        "headingFour": "User Interface and User Experience Design",
+        "headingFourArray": [
+            "Take the lead in creating, documenting, and refining our design system to ensure uniform visual and interaction elements.",
+            "Take the lead in creating, documenting, and refining our design system to ensure uniform visual and interaction elements.",
+            "Take the lead in creating, documenting, and refining our design system to ensure uniform visual and interaction elements."
+        ],
+        "headingFive": "Quality Oversight",
+        "headingFiveArray": [
+            "Take the lead in creating, documenting, and refining our design system to ensure uniform visual and interaction elements.",
+            "Take the lead in creating, documenting, and refining our design system to ensure uniform visual and interaction elements.",
+            "Take the lead in creating, documenting, and refining our design system to ensure uniform visual and interaction elements."
+        ],
+        "headingSix": "Academic Credentials and Abilities",
+        "headingSixArray": [
+            "Take the lead in creating, documenting, and refining our design system to ensure uniform visual and interaction elements.",
+            "Take the lead in creating, documenting, and refining our design system to ensure uniform visual and interaction elements.",
+            "Take the lead in creating, documenting, and refining our design system to ensure uniform visual and interaction elements."
+        ],
+        "Conclusion": "At BrizSolution, we are dedicated to fostering equal opportunities and welcome applications from inpiduals from a wide range of backgrounds. We do not engage in discrimination based on factors such as race, religion or belief, ethnicity or national origin, disability, age, citizenship, marital status, domestic or civil partnership status, sexual orientation, gender identity, or any other protected status as outlined in applicable legislation.",
+        "RequiredTechnologies": [
+            "Node.js"
+        ],
+        "JobPlace": [
+            "New Delhi"
+        ],
+        "ExternalTechs": [
+            "React", "Angular", "View"
+        ]
+    }
+}

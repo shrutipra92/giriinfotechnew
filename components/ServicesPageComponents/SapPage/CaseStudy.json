@@ -1,0 +1,56 @@
+{
+  "Vodafone-EVO Roll out & Support Project": {
+    "image": "https://websiteimagessb.s3.us-west-2.amazonaws.com/c1.jpeg",
+    "Objective": "This project involves post implementation support for Vodafone Global in MM Module integrated with FI-CO, SD, HR, PS, XI, BW etc. Vodafone is the world’s largest telecom company headquartered in UK.",
+    "Deliverables": [
+      "• Handling the day-to-day user issues in PM & MM through Remedy (Issue Monitoring System) and providing satisfactory solutions.",
+      "• Handling issues related to MM IDOC’s and Interfaces.",
+      "• Root cause analysis of issues.",
+      "• Designing of Functional specifications for various major and minor enhancements.",
+      "• Conducting simulation exercises of Unit testing and Integration testing during Simulation phase from offshore.",
+      "• Estimating cost impact of the change and documentation.",
+      "• Responsible for the complete new Roll out (R4 phase) of the Vodafone project which involves the expansion to countries like Spain and Ghana. This includes, Document review, Creating test scenarios, Integration testing, KT from client & then training the team for this new release.",
+      "• Configured & Implemented new changes in business process such as Automatic Account Determination, Stock Transport Order (STO), Release Strategy along with technical team as for R6 release as requested by client.",
+      "• Exposure to CATS Functionality as a part of R6 release & implemented requested changes & building of new reports for business process as per the requirements.",
+      "• Created & configured new plants & storage locations, Evaluated Receipt Settlement (ERS), Blanket PO, Auto PO creation process, Master Data & Pricing Procedure as per the user’s requirements.",
+      "• Developed SAP APIs for data extraction as per the business guidelines.",
+      "• Exposure to Remedy Ticketing tool, HP Quality Centre for test cases creation in SAP as a part of daily work activity for this project.",
+      "• Exposure to Consignment Purchase Orders Functionality as a part of R10 release & implemented requested changes & building of new reports for business process as per the requirements."
+    ]
+  },
+  "Abbott Labs SAP R3 Global Enhancement Project-Pharmaceuticals": {
+    "image": "https://websiteimagessb.s3.us-west-2.amazonaws.com/c2.jpeg",
+    "Objective": "This is an enhancement project in Order to Cash (OTC) and completely focused in Sales order process to Billing Process.",
+    "Deliverables": [
+      "•  SAP SD OTC cycle in Sale Order types and Deliver and Billing types.",
+      "• Pricing, Credit Management and AR Statements, Dunning Letters, Sepa Prenotification Forms.",
+      "• Critical Responsibility in Project Just for OTC Testing cycle.",
+      "•  Closely monitoring the HPQC tool, to update the relevant status for the functional specification – Defect handling.",
+      "•  Adhere to the existing landscape design and develop Functional Specification Documents for new requirements and CR (Change Request).",
+      "•  Responsible for configuring SD components relevant to OTC team.",
+      "•   Responsible to handle and perform various testing phase such as Remediation Testing Unit testing, Integration testing and Regression testing and support CAT testing.",
+      "•   Strong SAP SD experience including focus areas of Sales order management, Deliveries, Billing Process.",
+      "•   Good understanding of ABAP debugging and troubleshooting issues",
+      "•   Worked on EDI and smart form.",
+      "•  Resolving the issues related to different areas like Sales order, Delivery, Billing, Shipment documents troubleshooting and providing solution to the user."
+    ]
+  },
+  "Zoetis Inc. – Support and Enhancement Project-Pharmaceuticals": {
+    "image": "https://websiteimagessb.s3.us-west-2.amazonaws.com/c3.jpeg",
+    "Objective": "",
+    "Deliverables": [
+      "• Scheduling AMS calls to discuss Incidents and Change Request.",
+      "• Present Enhancement Request in Approval Board. for entire OTC track.",
+      "• Verify change request and TR change before presenting to approval board.",
+      "• Coordinate with business on critical issues.",
+      "• Ensure Transition completion for OTC.",
+      "• Assign work and get updates from team.",
+      "• Handled customer complaints, mission critical problems and escalations professionally.",
+      "• As Critical Resource I have taken main role in UPGRADE Testing from Sandbox to Preproduction Testing.",
+      "• Global Trade System, License Determination, Document type, configuration, Legal, Regulation, COO and SLL output, SPL list types, Vendor/Customer/Bank/Document Transfer.",
+      "• Pricing, Billing & Order Enhancements, Copy Control, Text Determination.",
+      "• BI Report Development product Price and cost review.",
+      "• Dunning Letter, Sepal Prenotification Form, GATP."
+    ]
+  }
+}

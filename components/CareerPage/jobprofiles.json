@@ -1,0 +1,75 @@
+[
+    {
+        "id": "1",
+        "job": "SENIOR SOFTWARE ENGINEER"
+       
+    },{
+        "id": "2",
+        "job": "REACT+NODE FULL STACK DEVELOPER"
+       
+    },{
+        "id": "3",
+        "job": "REACTJS DEVELOPER"
+       
+    }, {
+        "id": "4",
+        "job": "SR. TEST ENGINEER"
+       
+    },{
+        "id": "5",
+        "job": "MANAGER"
+       
+    },{
+        "id": "6",
+        "job": "DIRECTOR"
+       
+    }, {
+        "id": "7",
+        "job": "TEAM LEAD"
+       
+    },{
+        "id": "8",
+        "job": "DATA ANALYST"
+       
+    },{
+        "id": "9",
+        "job": "SALES"
+       
+    },{
+        "id": "10",
+        "job": "SENIOR TECHNICAL LEAD"
+       
+    },{
+        "id": "11",
+        "job": "CONSULTANT - DEVOPS SERVICES"
+       
+    },{
+        "id": "12",
+        "job": "AWS CLOUD ARCHITECT"
+       
+    }, {
+        "id": "13",
+        "job": "SENIOR TEST ENGINEER"
+       
+    },{
+        "id": "14",
+        "job": "BIG DATA DEVELOPER"
+       
+    },{
+        "id": "15",
+        "job": "SENIOR SOFTWARE ENGINEER"
+       
+    }, {
+        "id": "16",
+        "job": "TECHNICAL ANALYST"
+       
+    },{
+        "id": "17",
+        "job": "DATA ANALYST"
+       
+    },{
+        "id": "18",
+        "job": "UI/UX DESIGNER"
+       
+    }
+]

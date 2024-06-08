@@ -1,0 +1,135 @@
+{
+    "Case study one": {
+      "base": {
+        "heading": "E-COMMERCE",
+        "Ambition": "The Client wanted to migrate their production workloads to another cloud services provider with better availability, security and manageability solutions.",
+        "images": [
+          "https://websiteimagessb.s3.us-west-2.amazonaws.com/ecom.jpeg"
+        ],
+        "solution": [
+          "• A site-to-site VPN connection was made from AWS account to the existing Prod Netmagic data center account. This helped to minimize the downtime for migration.",
+          "• Then a Fortigate HA setup was created. All incoming and outgoing traffic from AWS VPC passed through Fortigate firewall.",
+  
+          "• Fortigate VPN was configured via Fortigate firewall, which was deployed at Application and DB layers for controlled access to the workloads hosted on the AWS cloud. This ensured none of the Instances could be accessible directly.",
+  
+          "• For the total number of 30 applications, internal ALB and NLB were leveraged in such a way that all requests came to the firewall, which in turn forwarded them to NLB and then to ALB.",
+  
+          "• The three databases used by the Client were Oracle, MySQL and MongoDB.",
+  
+          "• For the Oracle Setup, FlashGrid 2 RAC node cluster with HA in AWS was implemented.",
+          "• All Applications and Databases were migrated from Netmagic to AWS with minimum downtime and no data loss."
+        ],
+        "Impact": [
+          "• The entire migration of Applications and Databases was completed with 90 minutes downtime with negligible impact on the business.",
+          "• Highly available and scalable architecture was provided at all the layers.",
+          "• The entire solution that was stitched and implemented met the criteria of Security best practices. ",
+          "• The migration to AWS brought about superior performance of all the applications, to the tune of 8%"
+        ],
+        "Relevance": [
+          "• Cloud architecture and foundation",
+          "• IT/OT application related cloud services",
+          "• Application migration to cloud",
+          "• PMO and change management for cloud migration"
+        ]
+      }
+    },
+    "Case study two": {
+      "base": {
+        "heading": "HOSPITALITY",
+        "Ambition": "Customer was running their B2B travel management solution on one of the local data centres. The data centre infrastructure was up for renewal and the customer wanted more flexibility in managing their infrastructure and was exploring AWS. Customer was also looking for a platform on which they could innovate their business solutions at a faster rate.",
+        "images": [
+          "https://websiteimagessb.s3.us-west-2.amazonaws.com/hospitality.jpeg"
+        ],
+        "solution": [
+          "• AWS Ireland was chosen as the region for hosting, keeping in mind their customer base.",
+          "• All the servers were created in private subnets in different AZs which were behind the load balancer.",
+  
+          "• Web Servers would connect to API servers via Network Load Balancer which was also provisioned be in private subnet.",
+          "• Both Web and API layers were in high availability with multiple servers running behind the load balancer.",
+          "• Keeping in mind of predictive nature of traffic on the application, static servers were used at both App and UI layers.",
+          "• MySQL was setup on EC2 instances across AZs for High Availability.",
+          "• Custom automation was written for auto-failover of MySQL instances.",
+          "• Additionally, MS SQL standard was run on EC2 in mirroring mode across AZ for high availability.",
+          "• Failover of the DB was also automated and tested by leveraging Route53 private hosted zone with Lambda, which were configured to update the DNS in case of failover.",
+          "• Microsoft Active Directory was hosted in two AZs for high availability and synced with on-premises AD.",
+          "• Site to site VPN connection with on-premises to send the logs to Splunk for log analysis.",
+          "• Native backups were setup on the database setups and configured to go to AWS S3."
+        ],
+        "Impact": [
+          "• Today, the migrated workloads are running successfully on AWS without any downtimes",
+          "• After the successful implementation of the solution, the client has achieved 99% application availability on Cloud.",
+          "• Applications response time has improved."
+        ],
+        "Relevance": [
+          "• Cloud architecture and foundation",
+          "• IT/OT application related cloud services",
+          "• Application migration to cloud",
+          "• Cloud maintenance and support",
+          "• PMO and change management for cloud migration"
+        ]
+      }
+    },
+  
+    "Case study three": {
+      "base": {
+        "heading": "DATA ANALYTICS",
+        "Ambition": "The client uses data collected through social media for building the Google of social web. They were already using Azure cloud services for its two flagship products- Scout & Deeper Sense. However, they wanted to migrate to AWS for two major reasons: • Reduce the overall cost • Apply best practices to help scale",
+        "images": [
+          "https://websiteimagessb.s3.us-west-2.amazonaws.com/analytics.jpeg"
+        ],
+        "solution": [
+          "• A VPN connection from AWS to Azure account was provisioned for a seamless connectivity.",
+  
+          "• The NoSQL database were extended into AWS taking into account for the huge amount of data to be transferred.",
+          "• The search engine of the application having terabytes of data into the clusters of AWS by extending the clusters into AWS which ensure zero downtime.",
+          "• All other servers were created in private subnet only to be accessed within a VPC for security with a load balancer.",
+          "• The NoSQL database and search engine cluster were deployed across availability zones for HA.",
+          "• Open VPN server was provisioned to connect directly to the instances in private servers from local.",
+          "• NAT gateway was used for all outgoing internet connections from private servers.",
+          "• Reserved instances recommendations helped in reducing the cost further."
+        ],
+        "Impact": [
+          "• Considering the timeline requested by the client, the entire migration including the database of 5TB was completed within 10 days.",
+          "• After migrating the entire application on AWS, the client was able to recognize a cost saving of almost 25% when compared to the expenses paid on Azure.",
+          "• The solution provided is highly available and scalable at all layers of the application."
+        ],
+        "Relevance": [
+          "• Cloud architecture and foundation",
+          "• PMO and change management for cloud migration"
+        ]
+      }
+    },
+    "Case study four": {
+      "base": {
+        "heading": "GEOSPATIAL DATA PROVIDER",
+        "Ambition": "The Customer was running multiple applications on NetMagic data center. They were looking to migrate all their applications to AWS Cloud. Giri Info Tech conducted a 3 days workshop with the client to study 10 critical applications and their technical landscape. After the complete understanding, we decided to migrate to AWS in 2 phases. In Phase 1, delivered earlier by Giri Info Tech, we helped the customer migrate 5 of their most business critical applications to AWS Cloud. As part of the second and last phase, 5 more critical projects were migrated to move to AWS Cloud.",
+        "images": ["https://websiteimagessb.s3.us-west-2.amazonaws.com/geo.jpeg"],
+        "solution": [
+          "• The projects were segregated according to the dependencies within the projects.",
+          "• A detailed migration plan was prepared.",
+          "• Best practices in terms of network and security were put in place.",
+          "• All the projects were hosted within a single VPC",
+          "• VPN connection was set up between AWS and customer office premises.",
+          "• Each project was architected with high availability at all layers according to the requirement of the project.",
+          "• Entire infrastructure was set up for functional testing of the application.",
+          "• Implemented data lake for the backup solution successfully into glacier",
+          "• Implemented a POC on APM tools to find out issues with the performance of the code",
+          "• Central logging was put in place for most of the critical projects using ELK stack.",
+          "• For the layers requiring auto-scaling, auto scaling groups were used and appropriate listeners configured.",
+          "• RDS was used in the projects where the customer was using PostgreSQL."
+        ],
+        "Impact": [
+          "• All the business critical applications were migrated to AWS in a smooth and planned fashion with minimum downtime over a 3 month period.",
+          "• AWS Autoscaling helped to keep the application up when there was high load on the applications.",
+          "• Usage of spot instances and reserved instances helped in optimising the cost and produced a savings of approximate 30% over on-demand."
+        ],
+        "Relevance": [
+          "• Cloud architecture and foundation",
+          "• IT/OT application related cloud services",
+          "• Application migration to cloud",
+          "• PMO and change management for cloud migration"
+        ]
+      }
+    }
+  }
+  

@@ -1,0 +1,91 @@
+{
+    "PageHeading": "Meet The Team",
+    "Contents": {
+      "heading": {
+        "heading1": "Meet The Team",
+        "button": {
+          "value": "Lorem ipsum dolor sit.",
+          "redirectUrl": ""
+        }
+      },
+      "ContentOne": {
+        "Title": "Meet Our Team",
+        "description": "Effective planning is essential for the successful implementation of a project. Our team ensures that the building continues to operate as per its design. ",
+        "objects": {
+          "object1": {
+              "image": "https://websiteimagessb.s3.us-west-2.amazonaws.com/Team/profile1.jpg",
+              "name": "Amit Prajapati",
+              "description": "Founder & CEO"
+          },
+          "object2": {
+              "image": "https://websiteimagessb.s3.us-west-2.amazonaws.com/Team/profile2.jpg",
+              "name": "Santosh Kumar Panda",
+              "description": "Head - Digital Transformation"
+          },
+          "object3": {
+              "image": "https://websiteimagessb.s3.us-west-2.amazonaws.com/Team/profile3.jpg",
+              "name": "Nimain Giri",
+              "description": "Head - R & D"
+          },
+          "object4": {
+              "image": "https://1fid.com/wp-content/uploads/2022/06/no-profile-picture-4-1024x1024.jpg",
+              "name": "Ashok Kumar Gupta",
+              "description": "VP - Sales & Marketing"
+          },
+          "object5": {
+            "image": "https://websiteimagessb.s3.us-west-2.amazonaws.com/Team/profile5.jpg",
+            "name": "Sanjeev Bhatia",
+            "description": "VP - Campaign and Growth"
+        },
+        "object6": {
+          "image": "https://websiteimagessb.s3.us-west-2.amazonaws.com/Team/profile6.jpg",
+          "name": "Deendayal Prajapati",
+          "description": "VP - Govt Relations"
+      }
+        },
+      "details":{
+        "detail1":{
+          "para1": "Greetings from the helm of BrizSolution Technology!",
+          "para2":" I'm Amit Prajapati, the Co-founder and CEO of BrizSolution Technology, a name synonymous with innovation and excellence in the world of global consulting, information technology, and outsourcing services. I'm not just a CEO; I'm a management visionary and a radical thinker who laid the foundation for this remarkable journey.",
+          "para3":"My story with BrizSolution Technology began in 2015 with a simple yet profound idea - to create an organization deeply rooted in values. I firmly believed that such commitment would inevitably lead to success in the business world. Today, that unwavering commitment to values continues to be the driving force behind our company's ethos.",
+          "para4":"Before my role at BrizSolution Technology, I had the privilege of serving at HCL Technologies, both in Great Britain and India, gaining invaluable experience and insights that have shaped my leadership journey.",
+          "para5":"At BrizSolution Technology, we are not just a company; we are a testament to the power of vision, innovation, and dedication. I invite you to connect and be part of our journey as we continue to pioneer new horizons in the world of technology and consulting. Together, we can achieve greatness."
+        },
+        "detail2":{
+          "para1": "'Amit Prajapati' is the 'co-founder and CEO of BrizSolution Technology'. He is an acknowledged management visionary and a radical thinker that architected BrizSolution Technology. As the CEO he is responsible for managing the BrizSolution Technology's growth as a leading provider of global consulting, information technology and outsourcing services.",
+          "para2":" He started BrizSolution Technology in 2015 with one basic idea - to build an organization that was going to be deeply committed to the values, in the firm belief that success in business would be its inevitable, eventual outcome. Unflinching commitment to values continues to remain at the core of BrizSolution Technology.",
+          "para3":"Before starting BrizSolution Technology have served at HCL Technologies, Great Britain, and India as well. He holds a Master’s in Computer Engineering from SGSITS, Indore."
+        },
+        "detail3":{
+          "para1": "'Nimain' has 12 years of experience in the IT industry in both entrepreneurial and senior management roles. He is a thought leader and proven developer IT & Software,mobility and embedded product development with a demonstrated history of working in the information technology and services industry.",
+          "para2":" Focused on IOT product with artificial intelligence (AI), skilled in scrum, he anchors the global innovation centre for BrizSolution Technology.",
+          "para3":"Nimain is responsible for BrizSolution Technology Solutions Delivery and Technology initiatives. He has B. Tech in Electronics & Telecommunication from Biju Patnaik University."
+         
+        },
+        "detail4":{
+          "para1": "Hello I am Ashok",
+          "para2":" I'm a Versatile Technocrat with nearly two decades of hands-on experience in the dynamic realm of IT solutions. Over the years, I've had the privilege of working on both Global and Domestic projects, honing my skills in Solutions Consulting, Designing, and Architecting.",
+          "para3":"My expertise spans a wide spectrum of IT solution strategy, covering key domains such as Cloud, Datacenter, Automation, Network, Security, and Storage. I've had the opportunity to shape IT landscapes through Strategy Design, Presales, Contracting, SOW, RFP/RFI responses, Containerization (Application Modernization), DevOps, Managed Services & Automation, Financial Modeling, and Solution defense.",
+          "para4":"One of my greatest strengths lies in crafting IT Infrastructure Roadmaps that steer organizations towards success, be it in the short-term or long-term. I take pride in formulating tailored migration strategies and overseeing IT Infrastructure Operations with a Consultative Approach, ensuring alignment with business goals.",
+          "para5":"My tech toolkit includes proficiency in AWS, Azure, DevOps practices, Docker Containers, Kubernetes orchestration, and Linux environments. I thrive on staying at the forefront of technology to empower organizations with innovative solutions.",
+          "para6":"If you're looking to connect, collaborate, or explore opportunities in the ever-evolving world of IT, feel free to reach out. Let's connect and embark on a journey of innovation together."
+
+        },
+        "detail5":{
+          "para1": "With over 15 years of work experience, I am a seasoned marketing professional with a passion for driving growth and innovation. I have a proven track record of delivering exceptional value to customers, positioning BrizSolution as a market leader in the technology sector. I have expertise in brand building, growth marketing, advertising, content marketing, and B2B marketing, as well as certifications in Salesforce and Braze. My mission is to align our marketing strategies with our company goals and foster cross-functional collaboration. I bring diverse perspectives and experiences to the team, and I thrive in a fast-paced and dynamic environment.",
+          "para2":" As the VP Campaign and Growth at BrizSolution, I play a pivotal role in driving the company's growth. I lead our marketing team, ensuring quality, efficiency, and ROI. Leveraging analytics and technology, I refine our marketing campaigns for maximum impact. I use Salesforce and Braze to create, test, execute, and validate campaigns across email, display, and mobile push. I also collaborate with key stakeholders to implement ad-hoc emails or automation/journey projects. I am skilled in content creation, LinkedIn Sales Navigator, and email marketing. I have successfully increased customer acquisition, retention, and innovation at BrizSolution."
+         
+        },
+        "detail6":{
+          "para1": "'Amit Prajapati' is the 'co-founder and CEO of BrizSolution Technology'. He is an acknowledged management visionary and a radical thinker that architected BrizSolution Technology. As the CEO he is responsible for managing the BrizSolution Technology's growth as a leading provider of global consulting, information technology and outsourcing services.",
+          "para2":" He started BrizSolution Technology in 2015 with one basic idea - to build an organization that was going to be deeply committed to the values, in the firm belief that success in business would be its inevitable, eventual outcome. Unflinching commitment to values continues to remain at the core of BrizSolution Technology.",
+          "para3":"Before starting BrizSolution Technology have served at HCL Technologies, Great Britain, and India as well. He holds a Master’s in Computer Engineering from SGSITS, Indore."
+        }
+
+      }
+
+      }
+    
+    }
+  }
+  

@@ -1,0 +1,44 @@
+{
+    "PageHeading": "Aviation",
+    "Contents": {
+      "heading": {
+        "heading1": "Aviation"
+      },
+
+      "ContentOne": {
+        "Title": "Aviation",
+        "description": "Airlines are in the midst of a significant technological shift. They need to update their systems, expand their operational capabilities, make travel more enjoyable for passengers, streamline their internal processes, and find new ways to make money. Our company uses the latest technologies to assist airlines in improving the passenger travel experience and overcoming critical business challenges.We have a track record of helping top airline companies modernize their older technology systems, rethink the entire passenger journey, improve their business operations, foster customer loyalty, and guide them in their digital transformation efforts. We offer a unique combination of in-depth industry knowledge, expertise in integrating systems, and tools to expedite product implementations in areas like Passenger Service Systems, Loyalty programs, Cargo operations, Revenue Management, Crew Operations, and e-commerce.",
+        "subheadings":{
+            "subheading1": "Areas of Emphasis",
+            "subheading2": "Our Approach to Transforming Services",
+            "subheading3": "Case Studies",
+            "subheading4": "I'm here to help. What would you like to discuss or learn more about?",
+            "subheading5": "Revolutionizing the Traveler's Journey Using Cutting-Edge Technology",
+            "subheading6": "Our Advanced Passenger Revenue Accounting System of the Future"
+        },
+        "objects": {
+          "object1": {
+              "image": "https://websiteimagessb.s3.us-west-2.amazonaws.com/aviation/operation.jfif",
+              "name": "Operations",
+              "description": "Founder & CEO"
+          },
+          "object2": {
+              "image": "https://websiteimagessb.s3.us-west-2.amazonaws.com/aviation/commercial.jfif",
+              "name": "Commercial and Sales",
+              "description": "CTO"
+          },
+          "object3": {
+              "image": "https://websiteimagessb.s3.us-west-2.amazonaws.com/aviation/indistial.jfif",
+              "name": "Enterprise and Back Office",
+              "description": "Developer"
+          },
+          "object4": {
+              "image": "https://websiteimagessb.s3.us-west-2.amazonaws.com/aviation/customer.jfif",
+              "name": "Customer Experience and Commerce",
+              "description": "Other"
+          }
+        }
+      }
+    }
+  }
+  
